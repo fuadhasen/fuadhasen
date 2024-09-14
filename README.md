@@ -1,6 +1,6 @@
 </p>
 <p align="center">  
-<img src ="https://thumbs.dreamstime.com/z/software-engineering-scribble-study-application-to-design-development-maintenance-keywords-39843925.jpg?w=400">
+<img src ="https://www.allschoolscolleges.com/images/career_logo/161614082773.jpg">
 </p>
 
 ## root:~$ ./whoami.sh
