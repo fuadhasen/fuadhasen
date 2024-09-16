@@ -57,3 +57,19 @@
 </pre>
 
 --------------
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/Fudi/">
+        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Fudi/" />
+    </a>
+    <span> * </span>
+    <a href="https://x.com/Fuadhas6">
+        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://x.com/Fuadhas6&color=1DA1F2" />
+    </a>
+    <span> * </span>
+    <a href="https://discordapp.com/users/1109363193547067412">
+        <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://discordapp.com/users/1109363193547067412&color=7289da" />
+    </a>
+
+</p>
+
