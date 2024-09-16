@@ -73,3 +73,16 @@
 
 </p>
 
+
+---------------
+| [![matsadura's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsadura&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/matsadura?tab=repositories) | [![matsadura's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matsadura&layout=compact&hide_border=true&theme=dark)](https://github.com/matsadura?tab=repositories) |
+|:-:|:-:|
+
+<p align="center">
+	<img alt="Fuad's visitors" src="https://komarev.com/ghpvc/?username=fuadhasen&color=8c36db&style=flat&label=visitors" />
+	<img alt="Fuad's followers" src="https://img.shields.io/github/followers/fuadhasen?color=blueviolet" />
+	<img alt="Fuad's stars" src="https://img.shields.io/github/stars/fuadhasen?color=blueviolet" />
+</p>
+
+---------------
+
