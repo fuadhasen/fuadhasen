@@ -75,7 +75,7 @@
 
 
 ---------------
-| [![matsadura's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsadura&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/matsadura?tab=repositories) | [![matsadura's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matsadura&layout=compact&hide_border=true&theme=dark)](https://github.com/matsadura?tab=repositories) |
+| [![Fuad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuadhasen&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/fuadhasen?tab=repositories) | [![Fuad's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuadhasen&layout=compact&hide_border=true&theme=dark)](https://github.com/fuadhasen?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
