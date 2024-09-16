@@ -28,7 +28,7 @@
 
 ╔══╡ root:~$ echo $SOCIALS ║════════▣▣▣
 ║
-║  ▰ <a href="https://www.linkedin.com/in/Fudi">LinkedIn</a>
+║  ▰ <a href="https://medium.com/@fuadhas6634">Medium</a>
 ║  ▰ <a href="https://x.com/Fuadhas6">Twitter</a>
 ║  ▰ Discord: fuadhas.
 ║
@@ -57,8 +57,8 @@
 --------------
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/Fudi/">
-        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Fudi/" />
+    <a href="https://medium.com/@fuadhas6634">
+        <img alt="medium Profile" src="https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@fuadhas6634" />
     </a>
     <span> * </span>
     <a href="https://x.com/Fuadhas6">
