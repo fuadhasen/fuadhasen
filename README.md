@@ -38,7 +38,7 @@
 ║
 ║  ▰ <a href="https://github.com/fuadhasen/printf">Printf</a>
 ║  ▰ <a href="https://github.com/fuadhasen/simple_shell">Simple Shell</a>
-║  ▰ <a href="https://github.com/fuadhasen/monty">Monty Interpreter</a>
+║  ▰ <a href="https://github.com/kedabdure/monty">Monty Interpreter</a>
 ║  ▰ <a href="https://github.com/fuadhasen/AirBnB_clone">AirBnB Clone v1</a>
 ║  ▰ <a href="https://github.com/fuadhasen/AirBnB_clone_v2">AirBnB Clone v2</a>
 ║  ▰ <a href="https://github.com/fuadhasen/AirBnB_clone_v3">AirBnB Clone v3</a>
