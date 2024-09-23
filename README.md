@@ -1,7 +1,7 @@
 </p>
 
 ## root:~$ ./whoami.sh
->  Software Engineering student at [ALX Africa](https://www.alxafrica.com/) Powered by [Holberton](https://www.holbertonschool.com/) | [A2SV](https://a2sv.org/) Backed by [Google](https://startup.google.com) \
+>  Software Engineering student at [ALX Africa](https://www.alxafrica.com/) Powered by [Holberton](https://www.holbertonschool.com/) \
 >  “First solve the problem, then write the code.” - John Johnson
 
 
@@ -10,7 +10,7 @@
 
 ╔══╡ root:~$ whoami ║════════▣▣▣
 ║
-║  ▰ Software Engineering Student at ALX Africa & A2SV
+║  ▰ Software Engineering Student at ALX Africa
 ║  ▰ Proudly from Addis, Ethiopia
 ║  ▰ Passionate about engineering, coding, learning, and teaching
 ║  ▰ Interested in Automation, DevOps, low-level Programming and Netwroking
