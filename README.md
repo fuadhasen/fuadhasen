@@ -22,7 +22,7 @@
 ║  ▰ Bash, Bash Scripting, Linux
 ║  ▰ Vagrant, WSL, Git
 ║  ▰ C, CSS, HTML, JS, Python, FastApi, Flask, learning GO-lang
-║  ▰ MySQL, SQLAlchemy, PostgreSQL
+║  ▰ MySQL, SQLAlchemy, PostgreSQL, NoSQL, MongoDB, Redis
 ║
 ╚═══════════════════════════════════════▣▣▣
 
