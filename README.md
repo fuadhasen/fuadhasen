@@ -52,7 +52,7 @@
 ╔══╡ root:~$ ls ~/Projects ║══════▣▣▣
 ║
 ║  ▰ <a href="https://github.com/fuadhasen/craftSpot">craftSpot</a>
-║  ▰ <a href="https://github.com/fuadhasen/alx-files_manager">craftSpot</a>
+║  ▰ <a href="https://github.com/fuadhasen/alx-files_manager">fileManager</a>
 ╚═══════════════════════════════════════════▣▣▣
 
 </pre>
