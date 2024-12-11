@@ -10,7 +10,8 @@
 
 ╔══╡ root:~$ whoami ║════════▣▣▣
 ║
-║  ▰ Software Engineering Student at ALX Africa
+║  ▰ Full Stack Software Engineering Student with a Specialization in Backend at ALX Africa
+║  ▰ Software Engineering Student at JIT
 ║  ▰ Proudly from Addis, Ethiopia
 ║  ▰ Passionate about engineering, coding, learning, and teaching
 ║  ▰ Interested in Automation, DevOps, low-level Programming and Netwroking
