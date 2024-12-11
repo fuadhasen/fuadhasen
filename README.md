@@ -21,7 +21,7 @@
 ║
 ║  ▰ Bash, Bash Scripting, Linux
 ║  ▰ Vagrant, WSL, Git
-║  ▰ C, CSS, HTML, JS, Python, FastApi, Flask
+║  ▰ C, CSS, HTML, JS, React, Python, FastApi, Flask
 ║  ▰ MySQL, SQLAlchemy, PostgreSQL, NoSQL, MongoDB, Redis
 ║
 ╚═══════════════════════════════════════▣▣▣
