@@ -13,7 +13,7 @@
 ║  ▰ Full Stack Software Engineering Student with a Specialization in Backend at ALX Africa
 ║  ▰ Software Engineering Student at JIT
 ║  ▰ Proudly from Addis, Ethiopia
-║  ▰ Passionate about engineering, coding, learning, and teaching
+║  ▰ Passionate about Engineering, coding, learning, and teaching
 ║  ▰ Interested in Automation, DevOps, low-level Programming and Netwroking
 ║
 ╚═══════════════════════════════▣▣▣
@@ -21,9 +21,10 @@
 ╔══╡ root:~$ echo $SKILLS ║════════▣▣▣
 ║
 ║  ▰ Bash, Bash Scripting, Linux
-║  ▰ Vagrant, WSL, Git
-║  ▰ C, CSS, HTML, JS, React, Python, FastApi, Flask
+║  ▰ Vagrant, WSL, Git, Docker
+║  ▰ C, CSS, HTML, JS, React, Python, TypeScript
 ║  ▰ MySQL, SQLAlchemy, PostgreSQL, NoSQL, MongoDB, Redis
+║  ▰ FastApi, Flask, ExpressJs
 ║
 ╚═══════════════════════════════════════▣▣▣
 
@@ -48,9 +49,10 @@
 ╚═══════════════════════════════▣▣▣
 
 
-╔══╡ root:~$ ls ~/FoundationProject ║══════▣▣▣
+╔══╡ root:~$ ls ~/Projects ║══════▣▣▣
 ║
 ║  ▰ <a href="https://github.com/fuadhasen/craftSpot">craftSpot</a>
+║  ▰ <a href="https://github.com/fuadhasen/alx-files_manager">craftSpot</a>
 ╚═══════════════════════════════════════════▣▣▣
 
 </pre>
