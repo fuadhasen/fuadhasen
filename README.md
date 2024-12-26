@@ -36,7 +36,7 @@
 ║
 ╚═══════════════════════════════════════▣▣▣
 
-╔══╡ root:~$ ls ~/ALX ║══════▣▣▣
+╔══╡ root:~$ ls ~/ALX(Holberton-Powered) ║══════▣▣▣
 ║
 ║  ▰ <a href="https://github.com/fuadhasen/printf">Printf</a>
 ║  ▰ <a href="https://github.com/fuadhasen/simple_shell">Simple Shell</a>
