@@ -22,7 +22,7 @@
 ║
 ║  ▰ Bash, Bash Scripting, Linux
 ║  ▰ Vagrant, WSL, Git, Docker
-║  ▰ C, CSS, HTML, JS, React, Python, TypeScript
+║  ▰ C/C++, CSS, HTML, JS, React, Python, TypeScript
 ║  ▰ MySQL, SQLAlchemy, PostgreSQL, NoSQL, MongoDB, Redis
 ║  ▰ Flask, ExpressJs
 ║
@@ -52,8 +52,11 @@
 ╔══╡ root:~$ ls ~/Projects ║══════▣▣▣
 ║
 ║  ▰ <a href="https://github.com/fuadhasen/craftSpot">craftSpot</a>
+	-- Project that connnect craftsman with their employeers.
 ║  ▰ <a href="https://github.com/fuadhasen/alx-files_manager">file-Manager(Backend Dev Project: Auth, Node.js, MongoDB, Redis, Pagination & Background Jobs)</a>
+	-- local file management project using node js.
 ║  ▰ <a href="https://github.com/fuadhasen/Martar">Matar(Trip Management Platform)</a>
+	-- project that connect stourist and driver seamlelsly , tech stack react + fastapi.
 ╚═══════════════════════════════════════════▣▣▣
 
 </pre>
