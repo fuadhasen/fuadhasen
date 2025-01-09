@@ -23,7 +23,7 @@
 ║  ▰ Bash, Bash Scripting, Linux
 ║  ▰ Vagrant, WSL, Git, Docker
 ║  ▰ C/C++, CSS, HTML, JS, React, Python, TypeScript
-║  ▰ MySQL, SQLAlchemy, PostgreSQL, NoSQL, MongoDB, Redis
+║  ▰ MySQL, SQLAlchemy, SQLModel, PostgreSQL, NoSQL, MongoDB, Redis
 ║  ▰ Flask, ExpressJs
 ║
 ╚═══════════════════════════════════════▣▣▣
