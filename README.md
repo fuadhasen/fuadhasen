@@ -1,7 +1,7 @@
 </p>
 
 ## root:~$ ./whoami.sh
->  Software Engineering student at [ALX Africa](https://www.alxafrica.com/) Powered by [Holberton](https://www.holbertonschool.com/) \
+>  Certified Software Engineer  @ [ALX Africa](https://www.alxafrica.com/) Powered by [Holberton](https://www.holbertonschool.com/) \
 >  “First solve the problem, then write the code.” - John Johnson
 
 
@@ -10,7 +10,7 @@
 
 ╔══╡ root:~$ whoami ║════════▣▣▣
 ║
-║  ▰ Full Stack Software Engineering Student with a Specialization in Backend at ALX Africa
+║  ▰ Full Stack Software Engineer with a Specialization in Backend
 ║  ▰ Software Engineering Student at JIT
 ║  ▰ Proudly from Addis, Ethiopia
 ║  ▰ Passionate about Engineering, coding, learning, and teaching
