@@ -53,7 +53,7 @@
 ║
 ║  ▰ <a href="https://github.com/fuadhasen/craftSpot">craftSpot</a>
 	# A platform that connects craftsmen with employers
-║  ▰ <a href="https://github.com/fuadhasen/alx-files_manager">file-Manager(Backend Dev Project: Auth, Node.js, MongoDB, Redis, Pagination & Background Jobs)</a>
+║  ▰ <a href="https://github.com/fuadhasen/alx-files_manager">file-Manager(Auth, Node.js, MongoDB, Redis, Pagination & Background Jobs)</a>
 	# This backend project enables users to manage files locally, offering features like authentication,
 	user management, file storage, and advanced functionalities such as pagination and background jobs.
 ║  ▰ <a href="https://github.com/fuadhasen/Martar">Matar(Trip Management Platform)</a>
