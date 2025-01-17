@@ -10,7 +10,7 @@
 
 ╔══╡ root:~$ whoami ║════════▣▣▣
 ║
-║  ▰ Full Stack Software Engineer with a Specialization in Backend
+║  ▰ Software Engineer with a Specialization in Backend
 ║  ▰ Software Engineering Student at JIT
 ║  ▰ Proudly from Addis, Ethiopia
 ║  ▰ Passionate about Engineering, coding, learning, and teaching
