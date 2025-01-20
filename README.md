@@ -32,7 +32,7 @@
 ║
 ║  ▰ <a href="https://medium.com/@fuadhas6634">Medium</a>
 ║  ▰ <a href="https://x.com/Fuadhas6">Twitter</a>
-║  ▰ Discord: fuadhas.
+║  ▰ Email: fuadhas6634@gmail.com
 ║
 ╚═══════════════════════════════════════▣▣▣
 
