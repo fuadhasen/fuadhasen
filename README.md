@@ -52,9 +52,7 @@
 ╔══╡ root:~$ ls ~/Projects ║══════▣▣▣
 ║
 ║  ▰ <a href="https://github.com/fuadhasen/craftSpot">craftSpot</a>
-║
 ║  ▰ <a href="https://github.com/fuadhasen/alx-files_manager">file-Manager(Auth, Node.js, MongoDB, Redis, Pagination & Background Jobs)</a>
-║
 ║  ▰ <a href="https://github.com/fuadhasen/matar">matar(Trip Management Platform)</a>
 ║ 
 ╚═══════════════════════════════════════════▣▣▣
