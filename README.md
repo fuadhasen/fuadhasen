@@ -1,7 +1,7 @@
 </p>
 
 ## root:~$ ./whoami.sh
->  Software Engineering Student  @ [ALX Africa](https://www.alxafrica.com/) Powered by [Holberton](https://www.holbertonschool.com/) \
+>  Software Engineering Graduate  @ [ALX Africa](https://www.alxafrica.com/) Powered by [Holberton](https://www.holbertonschool.com/) \
 >  “First solve the problem, then write the code.” - John Johnson
 
 
