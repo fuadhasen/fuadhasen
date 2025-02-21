@@ -62,8 +62,8 @@
 --------------
 
 <p align="center">
-    <a href="https://medium.com/@fuadhas6634">
-        <img alt="medium Profile" src="https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@fuadhas6634" />
+    <a href="https://www.linkedin.com/in/fudihas/">
+        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/fudihas" />
     </a>
     <span> * </span>
     <a href="https://x.com/Fuadhas6">
