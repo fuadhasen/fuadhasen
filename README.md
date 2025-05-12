@@ -1,7 +1,7 @@
 </p>
 
 ## root:~$ ./whoami.sh
->  Software Engineering Graduate from [Holberton](https://www.holbertonschool.com/) School \
+>  Full Stack Developer - Python, Ts, Nestjs, Nextjs, RectJs
 >  “First solve the problem, then write the code.” - John Johnson
 
 
