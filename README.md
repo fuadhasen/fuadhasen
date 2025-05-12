@@ -1,8 +1,10 @@
 </p>
 
 ## root:~$ ./whoami.sh
->  Full Stack Developer - Python, Javascript /
->  “First solve the problem, then write the code.” - John Johnson
+> Full Stack Developer - Python, Javascript
+>
+> “First solve the problem, then write the code.” - John Johnson
+
 
 
 
