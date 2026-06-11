@@ -26,7 +26,7 @@
 ║  ▰ Vagrant, WSL, Git, Docker
 ║  ▰ C/C++, Python, Js
 ║  ▰ MySQL, SQLAlchemy, SQLModel, PostgreSQL, NoSQL, MongoDB, Redis
-║  ▰ Flask, ExpressJs, ReactJs
+║  ▰ Reactjs, Nextjs, FastAPI, Nestjs
 ║
 ╚═══════════════════════════════════════▣▣▣
 
