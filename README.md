@@ -13,7 +13,7 @@
 ╔══╡ root:~$ whoami ║════════▣▣▣
 ║
 ║  ▰ Software Engineer with a Specialization in Backend
-║  ▰ Software Engineering Student at JIT
+║  ▰ Software Engineering Graduate from JIT
 ║  ▰ Proudly from Addis, Ethiopia
 ║  ▰ Passionate about Engineering, coding, learning, and teaching
 ║  ▰ Interested in Automation, DevOps, low-level Programming and Netwroking
